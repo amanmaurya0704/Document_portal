@@ -5,6 +5,7 @@ __pycache__/
 *.pyo
 env/
 venv/
+venvllmops/
 *.egg-info/
 *.egg
 *.log
