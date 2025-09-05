@@ -1,0 +1,2 @@
+[ 2025-08-23 12:24:35,724 ] INFO Document_Portal (line:1) - This is an info log
+[ 2025-08-23 12:33:43,412 ] CRITICAL Document_Portal (line:1) - This is a critical log
